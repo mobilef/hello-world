@@ -8,9 +8,9 @@ This is a hellow world project
 
 ## Section 2
 Taks to do:
-- [] Task 1
+- [ ] Task 1
 - [X] Task 2
-- [] Task 3
+- [ ] Task 3
 
 ## Section 3
 |H1|H2|H3|H4|
